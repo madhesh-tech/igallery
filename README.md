@@ -41,8 +41,8 @@ Publish the website in the given URL.
             display: flex;
             flex-direction: column;
             align-items: center;
-            background-color: #040404;
-            color: #fff;
+            background-color:white;
+            color:black;
         }
 
         h1, h2 {
@@ -51,7 +51,7 @@ Publish the website in the given URL.
         }
 
         h1 {
-            color: #f0f0f1;
+            color:black;
         }
 
         h2 {
@@ -121,7 +121,7 @@ Publish the website in the given URL.
 </head>
 <body>
     <h1>Interactive Photo Gallery</h1>
-    <h2>Aesthetic Image</h2>
+    
     <h1>Game of Thrones</h1>
     <div class="gallery">
         <div class="gallery-item"><img src="c:\Users\admin\Downloads\daenerys.avif" alt="Daenerys Targaryen">Daenerys Targaryen</div>
